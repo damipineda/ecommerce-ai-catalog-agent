@@ -1,0 +1,30 @@
+{
+  "mode": "demo",
+  "model": null,
+  "review_required": true,
+  "sku_id": "DRAFT-7750C0B45A38",
+  "listing": {
+    "standardized_title": "termo negro de acero de 1 litro; conserva agua caliente 12 horas y fría 24 horas; trae pico para cebar; no pierde agua",
+    "short_pitch": "termo negro de acero de 1 litro; conserva agua caliente 12 horas y fría 24 horas; trae pico para cebar; no pierde agua",
+    "bullet_features": [
+      "termo negro de acero de 1 litro; conserva agua caliente 12 horas y fría 24 horas; trae pico para cebar; no pierde agua"
+    ],
+    "category_path": "Pendiente de clasificación",
+    "seo_metadata": {
+      "meta_title": "termo negro de acero de 1 litro; conserva agua caliente 12 h",
+      "meta_description": "termo negro de acero de 1 litro; conserva agua caliente 12 horas y fría 24 horas; trae pico para cebar; no pierde agua",
+      "keywords": [
+        "producto"
+      ]
+    },
+    "customer_faq_response": "Modo demo: no se ha generado una respuesta con IA. Consulta las notas del producto y las políticas adjuntas.",
+    "missing_information": [
+      "Revisar y completar la ficha antes de publicarla."
+    ]
+  },
+  "store_policies": {
+    "store_name": "Tienda de ejemplo — reemplazar antes de usar",
+    "shipping_policy": "Política de ejemplo: despacho en 24 a 48 horas. El tiempo de entrega depende del destino y no está confirmado.",
+    "warranty_policy": "Política de ejemplo: 30 días por defectos de fábrica."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "mode": "ollama_cloud",
+  "model": "gemma4:31b",
+  "review_required": true,
+  "sku_id": "DRAFT-7750C0B45A38",
+  "listing": {
+    "standardized_title": "Termo de Acero Negro de 1 Litro",
+    "short_pitch": "Termo de acero negro con capacidad de 1 litro, ideal para mate gracias a su pico cebador y excelente conservación térmica.",
+    "bullet_features": [
+      "conserva agua caliente 12 horas y fría 24 horas",
+      "trae pico para cebar",
+      "no pierde agua"
+    ],
+    "category_path": "Hogar > Cocina > Termos",
+    "seo_metadata": {
+      "meta_title": "Termo de Acero Negro 1L con Pico Cebador",
+      "meta_description": "Compra el termo de acero negro de 1 litro. Mantiene el agua caliente por 12h y fría por 24h. Ideal para cebar mate.",
+      "keywords": [
+        "termo acero negro",
+        "termo 1 litro",
+        "termo para mate",
+        "termo pico cebador"
+      ]
+    },
+    "customer_faq_response": "El agua caliente se conserva durante 12 horas. Respecto al envío, el despacho se realiza en 24 a 48 horas, aunque el tiempo de entrega final depende del destino y no está confirmado.",
+    "missing_information": []
+  },
+  "store_policies": {
+    "store_name": "Tienda de ejemplo — reemplazar antes de usar",
+    "shipping_policy": "Política de ejemplo: despacho en 24 a 48 horas. El tiempo de entrega depende del destino y no está confirmado.",
+    "warranty_policy": "Política de ejemplo: 30 días por defectos de fábrica."
+  }
+}
